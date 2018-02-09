@@ -1,0 +1,24 @@
+body {
+	font-family: 微軟正黑體;
+}
+
+/*footer*/
+
+footer {
+  height: 12em;
+  padding: 2em;
+  background-image: url(image/eg_bg_3.jpeg);
+  background-size: 100%;
+  background-position: center center;
+  z-index: -1;
+  float: center;
+  text-align: center;
+}
+
+#footer_p {
+  font-size: 0.8em;
+  margin: 0.8em;
+  color: #ffffff;
+}
+
+
